@@ -15,7 +15,7 @@ html {
   z-index: 99; /* Make sure it does not overlap */
   border: none; /* Remove borders */
   outline: none; /* Remove outline */
-  background-color: rgb(134, 134, 134); Set a background color
+  background-color: rgb(134, 134, 134); /*Set a background color*/
   color:white; /* Text color */
   padding:10px; /* Some padding */
   cursor: pointer;
